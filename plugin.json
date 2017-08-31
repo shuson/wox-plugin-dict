@@ -1,0 +1,12 @@
+{
+  "ID":"e9cs57803sf514e5cx7e851d22890x33",
+  "ActionKeyword":"dc",
+  "Name":"海词词典",
+  "Description":"dict.cn 海词词典",
+  "Author":"nevermoi",
+  "Version":"0.0.1",
+  "Language":"python",
+  "Website":"https://github.com/shuson/wox-plugin-dict",
+  "IcoPath": "img\\dict.png",
+  "ExecuteFileName":"dict.py"
+}
